@@ -1,0 +1,43 @@
+# Flutter
+.dart_tool/
+.build/
+.pub/
+.pub-cache/
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/ios/**/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+.DS_Store
+
+# Build outputs
+build/
+flutter_*.png
+*.lock
+
+# Android
+android/local.properties
+android/app/.classpath
+android/app/.project
+android/app/.settings/
+android/app/.gradle
+android/.gradle
+android/captures/
+
+# Web
+build/web/
+
+# Environment variables
+.env
+**.env
