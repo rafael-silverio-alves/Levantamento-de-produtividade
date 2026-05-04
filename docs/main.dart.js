@@ -26056,7 +26056,7 @@ var $async$Jk=A.F(function(a,b){if(a===1)return A.B(b,r)
 for(;;)switch(s){case 0:if($.a3==null)A.amH()
 $.a3.toString
 s=2
-return A.w(A.akM("SUA_ANON_KEY","https://SEU_PROJETO.supabase.co"),$async$Jk)
+return A.w(A.akM("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVrd254c2RzaWFvd3ZobG9oc25pIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc0Nzk4OTMsImV4cCI6MjA5MzA1NTg5M30.QbOx0482CPkS9CS2fxZ-14W88RiZ-rUCWFR57RfCUl8","https://ekwnxsdsiaowvhlohsni.supabase.co"),$async$Jk)
 case 2:s=3
 return A.w($.pg().vs(),$async$Jk)
 case 3:s=4
