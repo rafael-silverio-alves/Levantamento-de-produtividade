@@ -26110,7 +26110,7 @@ _.I$=0
 _.K$=c
 _.ap$=_.ak$=0},
 a1G:function a1G(){},
-aV6(){var s,r,q=$.ay(),p=A.c(["Coronel","Kardeal","Compack"],t.s),o=J.AW(10,t.S)
+aV6(){var s,r,q=$.ay(),p=A.c(["Coronel","Compack","Kardeal","73IM 805 RZ","KWI 194","TY 614"],t.s),o=J.AW(10,t.S)
 for(s=0;s<10;s=r){r=s+1
 o[s]=r}return new A.ET(new A.bu(null,t.am),new A.jG(B.fF,q),new A.jG(B.fF,q),new A.jG(B.fF,q),p,o,A.c([],t.H7))},
 yt:function yt(a){this.a=a},
